@@ -29,7 +29,8 @@ I focused on applying software engineering best practices rather than just build
 * 
 ## 📸 Screenshot 
 <img width="397" height="864" alt="Screenshot 2026-02-04 131250" src="https://github.com/user-attachments/assets/b2a95dbf-4638-4938-a0d2-cbfceb5df35a" />
+
 <img width="399" height="830" alt="Screenshot 2026-02-04 131300" src="https://github.com/user-attachments/assets/2b8c060c-11eb-448a-8243-d26a6420345f" />
-<img width="410" height="441" alt="Screenshot 2026-02-03 172839" src="https://github.com/user-attachments/assets/c0061c00-06e2-4ed0-b886-76553ce4b3c8" />
+
 <img width="407" height="857" alt="Screenshot 2026-02-04 131243" src="https://github.com/user-attachments/assets/660feab9-8a1e-4844-8358-4d4ed8e2e3a0" />
 
